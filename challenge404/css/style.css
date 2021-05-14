@@ -1,0 +1,110 @@
+*::after, *::before{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    font-size: 16px;
+}
+
+.header{
+    text-transform: uppercase;
+    font-family: Inconsolata, sans serif;
+    font-size: 1.5rem;
+    line-height:25px ;
+    padding: 5.5vw 7vw;
+   
+}
+
+main{
+    padding: 0 8vw 8vw;
+}
+
+.image{
+    
+    margin-bottom: 8vw;
+    display: inline-block;
+    width: 40%;
+}
+
+img{
+    width: 100%;
+    height: auto;
+}
+
+.text-container{
+    margin-left: 2%;
+    font-family: 'Space Mono', monospace;
+    width: 41%;
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+.text-title{
+    font-size: 4rem;
+    font-weight: 700;
+    margin-bottom: 4vw;
+}
+
+.text-passage{
+    font-size: 1.5rem;
+    font-weight: 400;
+    margin-bottom: 100px;
+    text-align: left;
+    padding-right: 0;
+}
+
+.btn{
+    text-decoration: none;
+    font-size: 0.875rem;
+    border: 1px solid black;
+    outline: none;
+    color: white;
+    text-transform: uppercase;
+    background-color: black;
+    padding: 23px 38px;
+    
+}
+
+.page-footer{
+    margin-top: 10vh;
+}
+
+.text-footer{
+    text-align:center;
+    color: #BDBDBD;
+    font-family: Montserrat;
+    padding-bottom: 14px;
+}
+
+
+
+@media only screen
+       and (max-width:800px){
+           .text-container,.image{
+               display: block;
+               width: 100%;
+
+           }
+           .text-container{
+               margin-left: 2%;
+           }
+           main{
+               margin: 0;
+               margin-bottom: 10vw;
+           }
+           
+           .text-passage{
+               font-size: 18px;
+               padding: 0;
+           }
+           .text-title{
+               font-size: 48px;
+               
+           }
+           .text-footer{
+               font-size: 14px;
+           }
+       }
