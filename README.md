@@ -27,17 +27,10 @@
 
 ## Overview
 
-![screenshot](![image](https://user-images.githubusercontent.com/39109050/118556208-f9638580-b739-11eb-9886-53f10c8ee865.png))
-
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+![image](https://user-images.githubusercontent.com/39109050/118689618-975c5c00-b7dd-11eb-9ec8-2627a0f40dad.png)
 
 
 ## Contact
 
-- GitHub [@your-username](https://github.com/cartelifabricio})
-- Twitter [@your-twitter](https://twitter.com/cartelifabricio)
+- GitHub https://github.com/cartelifabricio
+- Twitter https://twitter.com/cartelifabricio
