@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://agitated-mcnulty-2a1e8e.netlify.app/">
+    <a href="https://github.com/cartelifabricio/challenge404">
       Solution
     </a>
     <span> | </span>
